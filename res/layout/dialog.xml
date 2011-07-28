@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/layout_root"
+	android:orientation="vertical"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView
+		android:gravity="center_horizontal"
+		android:id="@+id/tvDialogTitle"
+		android:text="@string/dialogTitle"
+		android:textSize="10pt"
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent" />
+	<ScrollView
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+		<TextView
+			android:id="@+id/tvDialogText"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:text="@string/dialogText" />
+	</ScrollView>
+</LinearLayout>

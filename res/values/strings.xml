@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">HelloAlertDialog</string>
+	<string name="newAlertDialog">AlertDialog</string>
+	<string name="newAlertDialogButton">AlertDialog with buttons</string>
+	<string name="newAlertDialogList">AlertDialog with list</string>
+	<string name="newCustomAlertDialog">AlertDialog with custom layout</string>
+	<string name="dialogTitle">Title</string>
+	<string name="dialogText">Lorem ipsum dolor sit amet, consectetur adipiscing
+		elit. Cras adipiscing dignissim tortor, molestie sollicitudin erat
+		ullamcorper eu. Nam ornare pharetra sem vitae blandit. Aliquam sed
+		massa vitae risus sodales molestie vitae sit amet arcu. Nunc egestas
+		leo nec est dapibus a pellentesque erat pellentesque. Suspendisse
+		ornare nulla vitae quam vehicula consectetur. Morbi tincidunt lorem eu
+		quam ultricies vulputate. Nunc rutrum leo ut diam rutrum accumsan.
+		Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+		posuere cubilia Curae; Mauris pharetra pellentesque est, a bibendum
+		mauris vestibulum in. Nullam ac metus diam. Donec et sem erat.
+		Praesent placerat magna at augue sodales sed aliquet elit luctus.
+		Quisque semper lectus vel massa aliquet nec eleifend massa auctor. Sed
+		sed volutpat lorem. Integer rutrum elementum mi et congue. Vestibulum
+		ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
+		Curae; Cras id dui risus, eget aliquam massa. Suspendisse quis
+		pellentesque quam. Ut non dolor velit. In nec neque felis. Cum sociis
+		natoque penatibus et magnis dis parturient montes, nascetur ridiculus
+		mus. Nam felis erat, facilisis nec rutrum ut, suscipit sit amet dolor.
+		Donec bibendum sem et purus rutrum scelerisque. Donec auctor eleifend
+		est, a interdum neque porta in. Maecenas vulputate sodales tellus, sit
+		amet vehicula magna rutrum quis. In vel erat dolor, a commodo velit.
+		Quisque tempor gravida odio vel viverra. Aenean lobortis nunc in velit
+		auctor dictum. Aliquam hendrerit facilisis risus id tempor.
+	</string>
+</resources>
